@@ -1,8 +1,43 @@
 # pet-finder-tw
-test
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+```
+
+npm install -g create-react-app 
+//有裝過可以不用跑
+create-react-app pet-finder-tw --template typescript
+//要注意後方是否正確 否則可能回出現非 ts 版本的專案
+
+```
+- structure 
+```
+src $ tree -d
+.
+├── __snapshots__
+├── api
+├── components
+│   ├── Portal
+│   ├── base
+│   └── btn
+├── hooks
+├── images
+├── pages
+├── stories
+│   └── assets
+├── style
+│   ├── __tests__
+│   │   └── __snapshots__
+│   └── partials
+│       ├── base
+│       ├── components
+│       ├── global
+│       └── layouts
+└── utils
+
+```
 
 ## Available Scripts
 
@@ -43,10 +78,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 
 ### `npm run deploy`
-this project use `npm install --save gh-pages` to deploy.
+this project use `npm install --save gh-pages` to deploy `build` folder.
+
 ```diff package.json
-
-
+  "name": "pet-finder-tw",
++  "homepage": "https://minilabmemo.github.io/pet-finder-tw",
+  "scripts": {
++    "predeploy": "npm run build",
++    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
 
 ```
 
@@ -55,3 +99,22 @@ this project use `npm install --save gh-pages` to deploy.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+- node v18.16.1
+
+## vscode plugin
+- vscode-stylted-components
+- Code Spell Checker
+
+## storybook
+```
+npm run storybook
+127.0.0.1:6006
+```
+
+## test
+```
+npm test
+npm test -- --coverage 
+coverage/lcov-report/src/components/index.html
+```
