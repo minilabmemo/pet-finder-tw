@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pet-finder-tw/static/css/main.4a6d9b2b.css",
-    "main.js": "/pet-finder-tw/static/js/main.a85b4dd4.js",
+    "main.js": "/pet-finder-tw/static/js/main.d49da9a0.js",
     "static/js/787.a1295684.chunk.js": "/pet-finder-tw/static/js/787.a1295684.chunk.js",
     "static/media/girl_pet.png": "/pet-finder-tw/static/media/girl_pet.9c623afec8e6721528ce.png",
     "static/media/construct_img.png": "/pet-finder-tw/static/media/construct_img.f03bc801bfbea71f1e55.png",
@@ -29,11 +29,11 @@
     "index.html": "/pet-finder-tw/index.html",
     "static/media/info.svg": "/pet-finder-tw/static/media/info.e8db19e2d84e28c10ddd72c1583e67f5.svg",
     "main.4a6d9b2b.css.map": "/pet-finder-tw/static/css/main.4a6d9b2b.css.map",
-    "main.a85b4dd4.js.map": "/pet-finder-tw/static/js/main.a85b4dd4.js.map",
+    "main.d49da9a0.js.map": "/pet-finder-tw/static/js/main.d49da9a0.js.map",
     "787.a1295684.chunk.js.map": "/pet-finder-tw/static/js/787.a1295684.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a6d9b2b.css",
-    "static/js/main.a85b4dd4.js"
+    "static/js/main.d49da9a0.js"
   ]
 }
