@@ -1,120 +1,19 @@
 # pet-finder-tw
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-```
-
-npm install -g create-react-app 
-//有裝過可以不用跑
-create-react-app pet-finder-tw --template typescript
-//要注意後方是否正確 否則可能回出現非 ts 版本的專案
-
-```
-- structure 
-```
-src $ tree -d
-.
-├── __snapshots__
-├── api
-├── components
-│   ├── Portal
-│   ├── base
-│   └── btn
-├── hooks
-├── images
-├── pages
-├── stories
-│   └── assets
-├── style
-│   ├── __tests__
-│   │   └── __snapshots__
-│   └── partials
-│       ├── base
-│       ├── components
-│       ├── global
-│       └── layouts
-└── utils
-
-```
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+台灣收容中心動物開放資料搜尋。
 
 
-### `npm run deploy`
-this project use `npm install --save gh-pages` to deploy `build` folder.
+### features
 
-```diff package.json
-  "name": "pet-finder-tw",
-+  "homepage": "https://minilabmemo.github.io/pet-finder-tw",
-  "scripts": {
-+    "predeploy": "npm run build",
-+    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+- 動物搜尋
+<img src="./screen_find.png" width="50%">
 
-```
+- 動物收藏
+根據寵物找尋時點擊喜歡的浪浪暫存區，紀錄僅暫時存於瀏覽器紀錄中，本站無永久保存功能。
 
-## Learn More
+<img src="./screen_store.png" width="50%">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- 動物統計
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img src="./screen_chart.png" width="50%">
 
-- node v18.16.1
 
-## vscode plugin
-- vscode-stylted-components
-- Code Spell Checker
-
-## storybook
-```
-npm run storybook
-127.0.0.1:6006
-```
-
-## test
-```
-npm test
-npm test -- --coverage 
-coverage/lcov-report/src/components/index.html
-```
