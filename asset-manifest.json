@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pet-finder-tw/static/css/main.2091ef04.css",
-    "main.js": "/pet-finder-tw/static/js/main.76076416.js",
+    "main.css": "/pet-finder-tw/static/css/main.3f6e8dd7.css",
+    "main.js": "/pet-finder-tw/static/js/main.86c6813c.js",
     "static/js/787.a1295684.chunk.js": "/pet-finder-tw/static/js/787.a1295684.chunk.js",
     "static/media/girl_pet.png": "/pet-finder-tw/static/media/girl_pet.9c623afec8e6721528ce.png",
     "static/media/construct_img.png": "/pet-finder-tw/static/media/construct_img.f03bc801bfbea71f1e55.png",
@@ -10,30 +10,18 @@
     "static/media/main_img_1.png": "/pet-finder-tw/static/media/main_img_1.4c2107c28be75cf02f7d.png",
     "static/media/main_img_3.png": "/pet-finder-tw/static/media/main_img_3.4584be794454de706e4f.png",
     "static/media/brand.svg": "/pet-finder-tw/static/media/brand.7937329fde831a880b63264da389501b.svg",
-    "static/media/cat.svg": "/pet-finder-tw/static/media/cat.dd30ecf3b5a6c90296f14c0b1c82d5d3.svg",
-    "static/media/cat_inactive.svg": "/pet-finder-tw/static/media/cat_inactive.18c7707bf272e674a504002c78f9f459.svg",
-    "static/media/dog.svg": "/pet-finder-tw/static/media/dog.0f3fe36e7a15e2499b8af38d4ba1a75f.svg",
-    "static/media/dog_inactive.svg": "/pet-finder-tw/static/media/dog_inactive.8cb14c1d49ee5fba0840387b66710a72.svg",
     "static/media/icon_save.svg": "/pet-finder-tw/static/media/icon_save.6ec88b23f7db2e76c86bc6b5f1dc4140.svg",
     "static/media/pet.svg": "/pet-finder-tw/static/media/pet.efe6de2e255dd7f2eb69ca5e6afa38b7.svg",
-    "static/media/animals.svg": "/pet-finder-tw/static/media/animals.3c56c34480842dfabb4330f056ccf20f.svg",
-    "static/media/animals_inactive.svg": "/pet-finder-tw/static/media/animals_inactive.d76208ea578be36aab3d99f584cf7879.svg",
-    "static/media/save_inactive.svg": "/pet-finder-tw/static/media/save_inactive.aec2f9ac5466c125eea3e21c7f1c6af5.svg",
-    "static/media/save.svg": "/pet-finder-tw/static/media/save.25b93153f217bf7ed5cc9a8bdee8a2f4.svg",
-    "static/media/bird.svg": "/pet-finder-tw/static/media/bird.e962e1af3f1896a6d85ae47f64b15953.svg",
-    "static/media/bird_inactive.svg": "/pet-finder-tw/static/media/bird_inactive.84757405884d87312d9aad8b6ff570dd.svg",
     "static/media/info_pet.svg": "/pet-finder-tw/static/media/info_pet.79fa6d9d38e46d4f3ee3dda695836e3e.svg",
     "static/media/info_shelter.svg": "/pet-finder-tw/static/media/info_shelter.169f608e8c57a38b511133b0f00ee661.svg",
-    "static/media/open_not.svg": "/pet-finder-tw/static/media/open_not.d6af7d425094100e7313c01eab47343e.svg",
-    "static/media/open.svg": "/pet-finder-tw/static/media/open.1535db378e6c10313aa7784a36132f9d.svg",
     "index.html": "/pet-finder-tw/index.html",
     "static/media/info.svg": "/pet-finder-tw/static/media/info.e8db19e2d84e28c10ddd72c1583e67f5.svg",
-    "main.2091ef04.css.map": "/pet-finder-tw/static/css/main.2091ef04.css.map",
-    "main.76076416.js.map": "/pet-finder-tw/static/js/main.76076416.js.map",
+    "main.3f6e8dd7.css.map": "/pet-finder-tw/static/css/main.3f6e8dd7.css.map",
+    "main.86c6813c.js.map": "/pet-finder-tw/static/js/main.86c6813c.js.map",
     "787.a1295684.chunk.js.map": "/pet-finder-tw/static/js/787.a1295684.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2091ef04.css",
-    "static/js/main.76076416.js"
+    "static/css/main.3f6e8dd7.css",
+    "static/js/main.86c6813c.js"
   ]
 }
