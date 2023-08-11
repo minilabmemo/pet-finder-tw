@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pet-finder-tw/static/css/main.2d57de89.css",
-    "main.js": "/pet-finder-tw/static/js/main.afd733c3.js",
+    "main.css": "/pet-finder-tw/static/css/main.36e6f369.css",
+    "main.js": "/pet-finder-tw/static/js/main.90d85702.js",
     "static/js/787.a1295684.chunk.js": "/pet-finder-tw/static/js/787.a1295684.chunk.js",
     "static/media/girl_pet.png": "/pet-finder-tw/static/media/girl_pet.9c623afec8e6721528ce.png",
     "static/media/construct_img.png": "/pet-finder-tw/static/media/construct_img.f03bc801bfbea71f1e55.png",
@@ -16,12 +16,12 @@
     "static/media/info_shelter.svg": "/pet-finder-tw/static/media/info_shelter.169f608e8c57a38b511133b0f00ee661.svg",
     "index.html": "/pet-finder-tw/index.html",
     "static/media/info.svg": "/pet-finder-tw/static/media/info.e8db19e2d84e28c10ddd72c1583e67f5.svg",
-    "main.2d57de89.css.map": "/pet-finder-tw/static/css/main.2d57de89.css.map",
-    "main.afd733c3.js.map": "/pet-finder-tw/static/js/main.afd733c3.js.map",
+    "main.36e6f369.css.map": "/pet-finder-tw/static/css/main.36e6f369.css.map",
+    "main.90d85702.js.map": "/pet-finder-tw/static/js/main.90d85702.js.map",
     "787.a1295684.chunk.js.map": "/pet-finder-tw/static/js/787.a1295684.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d57de89.css",
-    "static/js/main.afd733c3.js"
+    "static/css/main.36e6f369.css",
+    "static/js/main.90d85702.js"
   ]
 }
